@@ -2,6 +2,8 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
  <!-- QUICK INTRO ABOUT ME -->
 <h3>Hi 👋, I'm JVCBYTE </h3>
+<h3>A curious programmer but if it works I let it be.</h3>
+
 <!-- PROFILE VIEW AND FOLLOWERS -->
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
@@ -11,16 +13,6 @@
 
 <!-- ABOUT ME AND MY UPDATES -->
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
-
-- 🔭 I’m currently working on [**Sealed Trust 🛡️**](https://stv2.vercel.app)
-- 🌱 I’m currently learning about **Zero-Knowledge Proofs.**
-- 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web3 development.
-- 👯 I’m looking to collaborate on [**web development projects**](https://github.com/jvc-byte/inventory_management_system).
-- 👨‍💻 Some of my projects are available at my GitHub [**repositories**](https://github.com/jvc-byte?tab=repositories).
-- 📫 Reach me via [**email**](mailto:jvc8463@gmail.com).
-- 📄 Know about my experiences on [**LinkedIn**](https://linkedin.com/in/jvc-o).
-- 💬 Open for your suggestions.
-- ⚡ Fun fact: **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
  
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
