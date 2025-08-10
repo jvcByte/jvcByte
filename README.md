@@ -2,18 +2,15 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
  <!-- QUICK INTRO ABOUT ME -->
 <h3>Hi 👋, I'm JVCBYTE </h3>
-<h3>A curious programmer but if it works I let it be.</h3>
+<h3>A curious programmer, but if it works, I let it be.</h3>
 
-<!-- PROFILE VIEW AND FOLLOWERS -->
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=jvcByte&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
- <img src="https://img.shields.io/github/followers/jvcByte?label=Followers&color=0ED7FF&style=flat" alt="followers-count"> 
-</p>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ABOUT ME AND MY UPDATES -->
-<img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
- 
+<!-- <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+  -->
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
   <strong>Let's Connect on:</strong>
@@ -22,6 +19,8 @@
     <a href="https://www.linkedin.com/in/jvc-o"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="center" alt="LinkedIn"/></a>
     <a href="https://warpcast.com/jvcByte"><img src="https://img.shields.io/badge/WarpCast-800080.svg?style=for-the-badge&logo=WarpCast&logoColor=white" align="center" alt="LinkedIn"/></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- MY GITHUB SUMMARIES-->  
 ## 📊 Statistics
@@ -52,3 +51,9 @@
     </div>  
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+ <!-- PROFILE VIEW AND FOLLOWERS -->
+<p align="right">
+ <img src="https://komarev.com/ghpvc/?username=jvcByte&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
+<!--  <img src="https://img.shields.io/github/followers/jvcByte?label=Followers&color=0ED7FF&style=flat" alt="followers-count"> -->
+</p>
