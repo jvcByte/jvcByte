@@ -25,7 +25,6 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <!-- MY GITHUB SUMMARIES-->  
 ## 📊 Statistics
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvcbyte&theme=github_dark" width="46%" />
