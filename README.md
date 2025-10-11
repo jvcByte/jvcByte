@@ -8,7 +8,7 @@
 
  <!-- QUICK INTRO ABOUT ME -->
 <h3>Hi 👋, I'm jvcbyte </h3>
-<h3>It doesn't work. What EXACTLY is the error?</h3> 
+<h3>All Code and no Grass Makes jvcbyte a dull boy.</h3> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
