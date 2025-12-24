@@ -20,9 +20,9 @@
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
   <strong>Let's Connect on:</strong>
-    <a href="https://x.com/jvcbyte"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" align="center" alt="Twitter"/></a>
+    <a href="https://x.com/cheena_010"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" align="center" alt="Twitter"/></a>
     <a href="https://medium.com/@jvcbyte"><img src="https://img.shields.io/badge/Medium-00AB6C.svg?style=for-the-badge&logo=Medium&logoColor=white" align="center" alt="Medium"/></a>
-    <a href="https://www.linkedin.com/in/jvc-o"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="center" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/jvcbyte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="center" alt="LinkedIn"/></a>
     <a href="https://warpcast.com/jvcbyte"><img src="https://img.shields.io/badge/WarpCast-800080.svg?style=for-the-badge&logo=WarpCast&logoColor=white" align="center" alt="LinkedIn"/></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
