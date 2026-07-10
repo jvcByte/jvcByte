@@ -41,8 +41,8 @@
 ## GitHub Trophies
 <!-- MY GITHUB PROFILE TROPHIES -->
 <p align="left" style="vertical-align:top; margin:4px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=jvcbyte&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="GitHub Trophies" />
+    <a href="https://github.com/0x5b62656e5d/github-profile-trophy" style="margin: 10px;">
+        <img src="https://trophy.benkou.dev/?username=jvcbyte&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="GitHub Trophies" />
     </a> 
 </p>
 
