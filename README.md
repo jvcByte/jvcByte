@@ -29,8 +29,8 @@
 
 <!-- MY GITHUB SUMMARIES-->  
 ## Statistics
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvcbyte&theme=github_dark" width="46%" />
-<img align="right" src="https://streak-stats.demolab.com?user=jvcbyte&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvcbyte&theme=github_dark" width="100%" />
+<!-- <img align="right" src="https://streak-stats.demolab.com?user=jvcbyte&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" /> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvcbyte&theme=github_dark" width="47%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvcbyte&theme=github_dark" width="47%" />  
