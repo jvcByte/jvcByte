@@ -26,6 +26,12 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## Music
+<div align="center">
+ <a href="https://open.spotify.com/user/31w4m2gyhunupj2fvafh2a3w2g7e" target='_blank'>
+  <img alt='Spotify recently played' src='https://spotify-recently-played-readme.vercel.app/api?user=31w4m2gyhunupj2fvafh2a3w2g7e&unique=true&count=3' width="100%">
+ </a>
+</div>
 
 <!-- MY GITHUB SUMMARIES-->  
 ## Statistics
@@ -51,11 +57,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Random Dev Quote
-  <div align="center">  
-<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
-    </div>  
+  <div align="center">
+      <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
+  </div>
 
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 
