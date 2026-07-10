@@ -11,7 +11,7 @@
 <h3>Hi 👋, I'm jvcbyte </h3>
 <h3>I have no special talent, I'm only passionately curious.</h3> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ABOUT ME AND MY UPDATES -->
 <!-- <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
@@ -28,17 +28,17 @@
 
 
 <!-- MY GITHUB SUMMARIES-->  
-## 📊 Statistics
+## Statistics
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvcbyte&theme=github_dark" width="46%" />
 <img align="right" src="https://streak-stats.demolab.com?user=jvcbyte&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvcbyte&theme=github_dark" width="47%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvcbyte&theme=github_dark" width="47%" />  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvcbyte&theme=github_dark" style="height: 300px"/>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvcbyte&theme=github_dark" style="height: 300px"/> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <!-- MY GITHUB PROFILE TROPHIES -->
 <p align="left" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
@@ -50,7 +50,7 @@
   <a><img alt="JVC's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jvcbyte&theme=react-dark&hide_border=true" /></a> -->  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>  
